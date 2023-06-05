@@ -2602,7 +2602,7 @@ input, select, textarea {
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 30%;
 	}
@@ -2633,14 +2633,20 @@ input, select, textarea {
 
 		#header h1 {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 1.35em;
+			font-size: 2.35em;
 			line-height: 1.75em;
 			margin: 0;
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
-			width: 6.25em;
+			/* margin: 0 0 1em 0; */
+			width: 7.50em;
+			height: 7.50em;
+		}
+
+		.image.avatar > img{
+			object-fit: cover;
+			height: 100%;
 		}
 
 /* Footer */
