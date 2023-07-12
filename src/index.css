@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Current bugfix for weird animation blink on notification popup*/
+div[class^="rnc__notification-container--"] {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.2s linear;
+}
+div[class^="rnc__notification-container--"]:has(> .rnc__notification) {
+  visibility: visible;
+  opacity: 1;
+}

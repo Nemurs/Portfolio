@@ -2,6 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { ReactNotifications } from 'react-notifications-component';
+import 'react-notifications-component/dist/theme.css'
+import 'animate.css';
 import './index.css';
 
 if (process.env.NODE_ENV !== 'production') {
@@ -12,6 +15,7 @@ if (process.env.NODE_ENV !== 'production') {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <ReactNotifications />
     <App />
   </React.StrictMode>
 );

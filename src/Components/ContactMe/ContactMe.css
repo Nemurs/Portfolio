@@ -12,6 +12,10 @@
     row-gap: 10px;
 }
 
+.ContactMe.messageSending .messageLoader{
+    margin-top: 20px;
+}
+
 .ContactMe p {
     font-size: 20px;
 }
