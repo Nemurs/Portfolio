@@ -3,7 +3,7 @@
   display: flex;
   min-height: 100vh;
   column-gap: 100px;
-  background-color: rgb(21, 19, 19);
+  background-color: rgb(41, 38, 38);
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -31,13 +31,13 @@ textarea:focus, input:focus{
 
 /*Skills*/
 #skill-key{
-  color: #47bbff97;
+  color: #47bbff;
 }
 #skill-frameworks{
-  color: #ffb13bba;
+  color: #ffb13b;
 }
 #skill-languages{
-  color: #2dbe65b4;
+  color: #2dbe65;
 }
 
 /* Media Queries */

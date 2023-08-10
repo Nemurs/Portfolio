@@ -11,7 +11,7 @@ function App() {
         <div className="page-section">
           <h2>About Me</h2>
           <p>
-            I'm Kevin Mejia, and I'm a passionate coder with a love for problem-solving and building innovative solutions. The moments that truly make me fall in love with coding are when I experience the exhilaration of solving a complex bug or completing a snippet of code that works flawlessly. There's nothing quite like that sense of satisfaction, and it fuels my desire to keep pushing the boundaries of what I can create and achieve.
+            I'm Kevin Mejia, and I'm a passionate coder with a love for building innovative solutions. My Electrical Engineering degree tuaght me a lot about problem-solving and I am confident that I can be a great asset to any team. My background as a first-generation student provides me a diverse perspective and I am excited to apply that knowledge as a new Software Engineer.
           </p>
           <p>
             <span className="italic">“Do or do not. There is no try.”</span>

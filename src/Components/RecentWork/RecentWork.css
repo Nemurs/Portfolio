@@ -21,13 +21,13 @@
 /*Project Text Colors*/
 
 #project-text-supereats{
-    color: #2dbe65b4;
+    color: #2dbe65;
 }
 #project-text-mangomusic{
-    color: #ffb13bba;
+    color: #ffb13b;
 }
 #project-text-kbnb{
-    color: #47bbff97;
+    color: #47bbff;
 }
 
 /* Media Queries */
@@ -61,10 +61,10 @@
         height: 200px;
     }
     .RecentWork h3 {
-        font-size: 12px;
+        font-size: 14px;
     }
     .RecentWork p {
-        font-size: 8px;
+        font-size: 12px;
     }
 }
 
@@ -81,7 +81,7 @@
         font-size: 12px;
     }
     .RecentWork p {
-        font-size: 8px;
+        font-size: 10px;
     }
   }
 
