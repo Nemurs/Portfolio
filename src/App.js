@@ -11,7 +11,7 @@ function App() {
         <div className="page-section">
           <h2>About Me</h2>
           <p>
-            I'm Kevin Mejia, and I'm a passionate coder with a love for building innovative solutions. My Electrical Engineering degree tuaght me a lot about problem-solving and I am confident that I can be a great asset to any team. My background as a first-generation student provides me a diverse perspective and I am excited to apply that knowledge as a new Software Engineer.
+            I'm Kevin Mejia, and I'm a passionate coder with a love for building innovative solutions. My Electrical Engineering degree taught me a lot about problem-solving and I am confident that I can be a great asset to any team. My background as a first-generation student provides me a diverse perspective and I am excited to apply that knowledge as a new Software Engineer.
           </p>
           <p>
             <span className="italic">“Do or do not. There is no try.”</span>
