@@ -14,7 +14,7 @@ const SideBar = () => {
                 <a href="https://github.com/Nemurs"><i className="fab fa-github" /></a>
                 <a href="www.linkedin.com/in/kevin-octavio-mejia"><i className="fab fa-linkedin" /></a>
                 <a href="mailto:kevinoctaviomejia@gmail.com" ><i className="far fa-envelope" /></a>
-                <a href="https://drive.google.com/file/d/1a4O6Wgi3v8o6q7VCssW5P9YiDhJPoa3c/view?usp=sharing"><i className="far fa-file" /></a>
+                <a href="https://drive.google.com/file/d/1E0IQJJadbHTjDSTPJKDgm_ghUUyO3uax/view"><i className="far fa-file" /></a>
             </div>
         </div>
     )
