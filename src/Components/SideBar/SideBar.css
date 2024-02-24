@@ -18,7 +18,7 @@
 .sidebar-top-background > img {
     position: absolute;
     min-height: 100vh;
-    height: 108%;
+    height: 100%;
     width: 100%;
     right:0;
     top:0;
@@ -44,6 +44,7 @@
 .sidebar-bottom{
     display: flex;
     align-items: center;
+    justify-content: center;
     column-gap: 15px;
     margin-bottom: 100px;
 }
@@ -116,7 +117,7 @@
         min-width: 175px;
     }
     .sidebar-top-background > img {
-        height: 109%;
+        /* height: 109%; */
     }
     .sidebar-top-text > img {
         width: 75px;
@@ -138,7 +139,7 @@
         min-width: 125px;
     }
     .sidebar-top-background > img {
-        height: 111%;
+        /* height: 111%; */
     }
     .sidebar-top-text > img {
         width: 50px;
