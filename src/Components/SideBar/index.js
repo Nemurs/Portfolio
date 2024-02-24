@@ -4,9 +4,9 @@ const SideBar = () => {
     return (
         <div className="sidebar" >
             <div className="sidebar-top-background">
-                <img src={process.env.PUBLIC_URL + "/images/bg.jpg"} alt="Los Angeles, California"/>
+                <img src={process.env.PUBLIC_URL + "/images/bg.webp"} alt="Los Angeles, California"/>
                 <div className="sidebar-top-text">
-                    <img src={process.env.PUBLIC_URL + "/images/avatar.png"} alt="Kevin"/>
+                    <img src={process.env.PUBLIC_URL + "/images/avatar.webp"} alt="Kevin"/>
                     <h1>Kevin Mejia</h1>
                 </div>
                 <div className="sidebar-bottom">
