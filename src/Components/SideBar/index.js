@@ -11,7 +11,7 @@ const SideBar = () => {
                 </div>
                 <div className="sidebar-bottom">
                     <a href="https://github.com/Nemurs"><i className="fab fa-github" /></a>
-                    <a href="www.linkedin.com/in/kevin-octavio-mejia"><i className="fab fa-linkedin" /></a>
+                    <a href="www.linkedin.com/in/kevin-octavio-mejia"><i className="fa-linkedin" /></a>
                     <a href="mailto:kevinoctaviomejia@gmail.com" ><i className="far fa-envelope" /></a>
                     <a href="https://drive.google.com/file/d/1WjH10whstAurSQjiJ406BdT5qpujB3u5/view"><i className="far fa-file" /></a>
                 </div>
