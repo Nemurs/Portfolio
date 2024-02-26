@@ -135,11 +135,21 @@
 /* Mobile */
 @media  screen and (max-width: 480px){
     .sidebar{
-        width: 20%;
-        min-width: 125px;
+        /* width: 20%;
+        min-width: 125px; */
+        width: 100%;
+        padding: none;
+    }
+    .sidebar-top-text{
+        margin-top: 20px;
+    }
+    .sidebar-bottom{
+        margin-bottom: 20px;
     }
     .sidebar-top-background > img {
-        /* height: 111%; */
+        min-height: auto;
+        object-fit: cover;
+        /* display: none; */
     }
     .sidebar-top-text > img {
         width: 50px;
