@@ -61,7 +61,7 @@ textarea:focus, input:focus{
     font-size: 20px;
   }
   .page-section > p {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 
@@ -75,7 +75,7 @@ textarea:focus, input:focus{
     font-size: 16px;
   }
   .page-section > p {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
@@ -85,10 +85,10 @@ textarea:focus, input:focus{
     column-gap: 50px;
   }
   .page-section > h2 {
-    font-size: 12px;
+    font-size: 16px;
   }
   .page-section > p {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 

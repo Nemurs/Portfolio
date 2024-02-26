@@ -177,7 +177,7 @@
         align-items: center;
     }
     .ContactMe p, .contact-option > a {
-        font-size: 12px;
+        font-size: 14px;
     }
     .ContactMe-form-wrapper{
         flex-flow: column-reverse;
@@ -206,7 +206,7 @@
         width: 28px;
     }
     .ContactMe p, .contact-option > a {
-        font-size: 10px;
+        font-size: 12px;
     }
     .ContactMe-form-top > input{
         width: 140px;
