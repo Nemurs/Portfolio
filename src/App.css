@@ -105,10 +105,4 @@ textarea:focus, input:focus{
   .main-section{
     padding: 15px 15px 0px 15px;
   }
-  .page-section > h2 {
-    font-size: 10px;
-  }
-  .page-section > p {
-    font-size: 8px;
-  }
 }

@@ -221,12 +221,20 @@
 
 /* Mobile */
 @media  screen and (max-width: 480px){
+    .contact-options{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-option{
+        height: fit-content;
+        padding: 5px;
+    }
     .ContactMe i {
         font-size: 12px;
         width: 18px;
     }
     .ContactMe p, .contact-option > a {
-        font-size: 8px;
+        font-size: 12px;
     }
     .ContactMe-form-top > input{
         width: 85px;

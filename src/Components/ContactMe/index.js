@@ -77,7 +77,7 @@ const ContactMe = () => {
                         <div className='contact-options'>
                             <div className='contact-option'>
                                 <i className="fas fa-mobile-alt" />
-                                <p>310-465-7892</p>
+                                <p>(310) 465-7892</p>
                             </div>
                             <div className='contact-option'>
                                 <i className="far fa-envelope" />
